@@ -12,7 +12,7 @@ Interested in Python, C
   [github.com]: https://github.com/Naserume/  "My github"
   [github.io]: https://naserume.github.io/  "My github"
   [Hanyang Univ ERICA, Division of Software]: http://sw.hanyang.ac.kr/eng/ "School Website"
-  [한양대학교 ERICA 소프트웨어학부]: http://sw.hanyang.ac.kr/ "학교 홈페이지"
+  [한양대학교 ERICA, 소프트웨어학부]: http://sw.hanyang.ac.kr/ "학교 홈페이지"
 
 간단한 소개
 ---------------------
