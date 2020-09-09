@@ -1,9 +1,9 @@
-한국어가 
+My simpie profile
 ====================
 
-> 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
+name: Shin HaeSoJin
+School: Hanyang Univ ERICA
+>  his is the second list item.
 > 
 > Here's some example code:
 > 
@@ -13,7 +13,7 @@
 2.  McHale
 3.  Parish
 
-A Second Level Header
+간단한 소개
 ---------------------
 
 Now is the time for all good men to come to
