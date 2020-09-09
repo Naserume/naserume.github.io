@@ -9,6 +9,10 @@ A First Level Header
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
+1.  Bird
+2.  McHale
+3.  Parish
+
 A Second Level Header
 ---------------------
 
@@ -24,6 +28,10 @@ dog's back.
 > > This is nested blockquote.
 >
 > Back to the first level.
+
++   Red
++   Green
++   Blue
 
 ### Header 3
 
@@ -42,3 +50,18 @@ Or, if you prefer, __use two underscores instead__.
 <blockquote>
   <p>For example.</p>
 </blockquote>
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
